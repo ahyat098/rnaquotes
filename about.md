@@ -1,12 +1,16 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: #RnAQuotes
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello! Saya hanya seorang yang hobi menulis dan blogging. 
+Blog ini di buat untuk berbagi serta sebagai sarana saya sembari belajar menulis kutipan. 
+Adapun kutipin ini berdasarkan hasil pemikiran, pengalaman pribadi, mungkin ada dari teman-teman yang ingin membagikan kutipannya silahkan bisa menghubungi saya dengan kontak di bawah ini, jika waktu berkenaan akan saya post dan sertakan nama lengkap >>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hell [BBM Channel](http://pin.bbm.com/C0015D9A2/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for the Jekyll new theme at: [Line](http://line.me/ti/p/%40uxc1348w/)
+
+You can find the source code for Jekyll at [Instagram](https://instagram.com/rnaquotes)
